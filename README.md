@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sambhavi
-- 👀 I’m interested in python, django, angular
-- 🌱 I’m currently learning fastapi
+- 👀 I’m interested in python, django, fastapi
 - 💞️ I’m looking to collaborate on developing APIs, building SaaS products
 - 📫 Connect with me on <a href="https://in.linkedin.com/in/sambhavi-dhanabalan">LinkedIn</a>
 
